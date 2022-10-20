@@ -1,0 +1,4 @@
+[[https://github.com/GregDavidson/tech-notes][tech-notes]]
+©2009-2021 by [[https://github.com/GregDavidson/][Greg Davidson]]
+is licensed under
+[[https://creativecommons.org/licenses/by-nc/4.0/legalcode][Attribution-NonCommercial 4.0 International]]
