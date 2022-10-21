@@ -1,5 +1,7 @@
 * Deep Rationality
 
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+
 ** Distinctions of Traditional Rationality
 
 The distinctions of /Rationality/ are extremely valuable
