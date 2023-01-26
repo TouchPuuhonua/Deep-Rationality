@@ -1,0 +1,260 @@
+* Diverse Good Explanations Yield Great Understanding
+
+** How can we understand everything important?
+
+Is it possible to have a good overall understanding of all important subjects, e.g.
+- What am I and what are Human Beings?
+- How can I have a great life?
+- What is the nature of the universe?
+- What is understanding?
+
+We often imagine that in order to best address these and other
+important and fudamental questions, we need to find the singular truth
+about them.  This search for a single /true/ explanation is promoted
+by many cultures, especially in their religions and school systems.
+In the modern "western" (post-Enlightenment) world we encounter this
+notion when studying science (especially the physical sciences),
+history, journalism, jurisprudence, etc.
+
+Another idea which has become increasingly popular is the idea of
+understanding being enriched by looking at something from multiple
+diverse viewoints.  This seems to contradict the previous idea.  But
+as David Deutsch might say "This does not prevent both of these
+approaches from being both wrong!"
+
+A breakthrough in understanding the nature of understanding was begun
+by Karl Popper and completed by David Deutsch.  They discovered that
+understanding consists of good explanations and proceeded to pin down
+exactly what constitutes a *good explanation*.
+
+Rather than my explaining Popper and Deutsch's remarkable discoveries,
+I will refer you to David Deutsch's Ted Talk [[https://www.ted.com/talks/david_deutsch_a_new_way_to_explain_explanation][A new way to explain
+explanation]].  If you want to know more, he has additional TED talks
+and other online talks and I also highly recommend his extraordinary
+book [[https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity?from_search=true&from_srp=true&qid=klANM0eyNm&rank=1][The Beginning of Infinity]].
+
+The rest of this article assumes that you've fully apprehended what
+David Deutsch says constitutes a "Good Explanation".  If you don't
+have that internalized yet, put reading this on hold and (1) watch
+that TED Talk, then (2) think about it.  Repeat steps (1) and (2)
+until enlightenment occurs!  Watching a TED Talks is quick and easy.
+Really getting a new viewpoint may take some work!
+
+OK: Ready to continue?
+
+** When do multiple perspectives aid understanding?
+
+So then what's the deal with multiple perspectives?  Aren't they just
+poor substitutes for finding the one best explanation of a subject?
+NO!  THere can be multiple very different good explanations for the
+same subject!  Failure to understand this can cause a serious decrease
+in understanding as well as undermine partnership among people who
+hold those different viewpoints and dont onderstasnd one another.
+
+** Examples of Multiple Perspectives
+
+*** What is Communication?
+
+**** Shannon's Information Theory
+
+Take communication for example.  Claude Shannon came up with one of
+the best explanations for what communication is at the level of
+exchange of information.  It's used everywhere in our extraordinary
+modern telecommunication technologies.
+
+Shannon's theoretical framework explains communication in terms of
+/bits/, but says very little about what it takes for how to say
+something important so that another human being is able to understand
+it.
+
+**** Chomsky's Linguistics
+
+Starting in the 1950's, [[https://en.wikipedia.org/wiki/Noam_Chomsky][Noam Chomsky]] turned [[https://www.britannica.com/biography/Noam-Chomsky/Linguistics][Linguistics into a Modern
+Science]].  His theories include
+- [[https://en.wikipedia.org/wiki/Chomsky_hierarchy][The Chomsky Hierarchy of Formal Languages]]
+- A theory of the innate cognitive mechanisms which support human language
+- A theory of universal features of human languages
+
+Chomsky transformed our understanding of language, key areas of
+Cognitive Science and much else.  Other Linguists and Cognitive
+Scientists have built on Comsky's work. If you'd like to know more
+about all of this, I highly recommend the book Steven Pinker's book
+[[https://stevenpinker.com/publications/language-instinct-19942007][The Language Instinct]].
+
+While the rich understanding of human language and the human mind is a
+treasure and part of what we're seeking, it doesn't immediately
+translate into tools to help us when - all too often - we find
+effective communication failing.
+
+**** Compassionate Communication
+
+Marshall Rosenberg's model of "Compassionate Communication" looks at
+communication in terms of [[https://www.cnvc.org/training/resource/needs-inventory][Human Needs]].  Marshall explains how
+- Satisfied and unsatisfied needs generate [[https://www.cnvc.org/training/resource/feelings-inventory][characteristic feelings]].
+- We create strategies to meet our needs
+- Our strategies sometimes don't work out well
+- We're often not consciously aware of any of this
+- Empathic communication can lead to awareness
+  - empowering us to meet our needs better
+  - allowing for partnership in creating effective strategies
+
+/Compassionate Communication/ is also called /Non-Violent
+Communication/ or /NVC/.  It has produced breakthroughs in effective
+human communication, despite not making use of Shannon or Chomsky's
+insights at all!  Yet it doesn't in any way contradict those other
+models either.
+
+I recommend Marshall Rosenberg's excellent book [[https://puddledancer.bookstore.ipgbook.com/nonviolent-communication--a-language-of-life-products-9781892005281.php][Nonviolent
+Communication: A Language of Life]].  Most people I know who've read it
+find it very wonderful but discover that putting it in practice in
+their life requires some support.  Study and practice groups can be
+helpful.  Workbooks and workshops are also available.
+
+*** What is our evolutionary nature?
+
+Take Evolutionary Biology: Richard Dawkins in [[https://www.goodreads.com/search?q=the+selfish+gene&ref=nav_sb_noss_l_16][The Selfish Gene]]
+explains how something that looks a lot like "selfishness" at the
+level of *genes* can generate what looks like *altruism* and
+*cooperation* at the level of organisms and groups.  The existence of
+altruism and cooperation in organisms doesn't contradict evolutionary
+biology, instead it enriches our understanding of it.  Sadly, a number
+of the most brilliant explicators of *cooperation* and *parternship*
+don't understand this and ironically undermine their books about
+*respect* and *understanding* with pot-shots against evolutionary
+biologists and especially Richard Dawkins!
+
+I have found Riane Eisler's books especially valuable in understanding
+human nature, despite her being one of those who doesn't seem to like
+Richard Dawkins!  Her book [[https://centerforpartnership.org/resources/books/the-partnership-way-new-tools-for-living-and-learning/][The Partnership Way: New Tools for Living
+and Learning]] is a good introduction to her thought.  Her models of
+Dominator Systems and Partnership Systems have contributed more to my
+understanding of what's going on in our society than anything else
+I've encountered.  I consister her insights absolutely essential and I
+only wish she could see how consilient her theories are with modern
+Evolutionary Biology, Evolutionary Psychology and Game Theory!
+
+*** An atom of copper in Nelson's statue in Trafalger Square
+
+In Trafalger Square in London, England there is a statue in bronze of
+the great British Naval War Hero Admiral Lord Nelson.  As bronze is an
+allow containing copper, let's consider two different kinds of
+explanations for a particular atom of copper in in the nose of the
+statue.
+
+**** The Laplacian Explanation
+
+#+BEGIN_QUOTE
+We may regard the present state of the universe as the effect of its
+past and the cause of its future. An intellect which at a certain
+moment would know all forces that set nature in motion, and all
+positions of all items of which nature is composed, if this intellect
+were also vast enough to submit these data to analysis, it would
+embrace in a single formula the movements of the greatest bodies of
+the universe and those of the tiniest atom; for such an intellect
+nothing would be uncertain and the future just like the past would be
+present before its eyes.\\
+-- Pierre Simon Laplace, /A Philosophical Essay on Probabilities/, 1795.
+#+END_QUOTE
+
+A Laplacian explanation would
+- start with the big bang
+- explain the evolution of stars
+- the synthesis and scattering of heavy elements in supernova explosions
+- the formation of solar systems and planets like ours
+- the geological processes which concentrate copper ores in the Earth's crust
+- the methods of mining copper in the 18th century
+- the methods of the production of bronze in the 18th century
+- the methods used to construct the statue of Admiral Nelson
+
+Each of these stages in the explanation could be expanded into a more
+detailed explanation.  A penultimate explanation might only describe
+interactions among fundamental particles.  An ultimate explanation
+might only describe the evolution of the Schrödinger Equation for our
+part of the Cosmos.
+
+These kinds of explanations illuinate many interesting phenomena, yet
+they fail to explain the human significance of Heroic Statues or
+Admiral Lord Nelson's accomplishment.  Indeed, the ultimate Laplacian
+explanations have no need to mention statues or human beings at all!
+
+**** The Evolutionary Psychology Explanation
+
+The Evolutionary Psychology Explanation would explain
+- How social organisms like us evolve
+- The nature of conflict among groups
+- How cooperation and conflict scale in human nation states
+- The importance of bronze in warfare to make cannon
+- The importance of glorifying war heros to cohesion of nation states
+- The clever sequestering of bronze in heroic statues until needed for cannon
+- The particulars of the war between England and Napoleon's France
+- The importance to England of the Battle of Trafalgar
+- Admiral Nelson's rôle in that battle
+
+Each element of this explanation can be expanded further to
+increasingly illuminate many facinating topics important to human
+beings.  Yet further elaboration of this kind of explanation would not
+increase our understanding of cosmology, physics, chemistry or
+geology.
+
+*** More Examples
+
+The models and viewpoints of different explanations can differ for many reasons including scale and context.
+Consider some 
+
+- The nature of Entropy
+  - Bolzman's molecular explanation
+  - Shannon's information theoretic explanation
+- The flow of time
+  - Entropy
+  - The Big Bang singularity
+  - An illusion in a Block Cosmos
+- What surrounds us
+  - Fields, Particles, Atoms, Molecules
+  - Replicators, Genes, Cells, Organisms, Groups, Populations, Ecosystems
+  - Symmetries and Forces
+- Different [[https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics][Interpretations of quantum mechanics]]
+- Different formulations of [[https://en.wikipedia.org/wiki/Classical_mechanics][Classical Mechanics]]
+  - Newtonian Mechanics
+  - Laplacian Mechanics
+  - (Diverse) Hamiltonian Mechanics
+- Different [[https://en.wikipedia.org/wiki/Theory_of_computation][Foundations of Computation]]
+  - [[https://en.wikipedia.org/wiki/Lambda_calculus][The Lambda Calculus]]
+  - [[https://en.wikipedia.org/wiki/Combinatory_logic][Combinatory Logic]]
+  - [[https://en.wikipedia.org/wiki/Turing_machine][Turing Machines]]
+- Diverse [[https://en.wikipedia.org/wiki/Programming_paradigm][Computer Programming Paradigms]]
+  - Functional, Relational, Logical, Constraint Satisfaction
+  - Procedural: State Machines, Objects, Message Passing, Mutation
+  - Statistical: Pattern Matching: Regular Expressions, Machine Learning, etc.
+
+** Translations can help!
+
+It can be useful and powerful to create translations between different
+explanatory models.  Having translations doesn't (necessarily) reduce
+the value of using the different models with their viewpoints and
+interpretations.  Translations are often only partial and even when
+perfect translations are possible between models, e.g. between
+different interpretations of Quantum Mechanics, they can differ
+greatly in insightfulness and in tractability for specific problems.
+
+*** Consilience vs. Reductionism
+
+Somtimes it's possible to tranlate explanations at a high level to
+explanations at a lower level without seeming to lose anything
+essential.  This is the classic strategy of reductionism which has be
+the source of a great deal of progress in the physical sciences.  For
+example, chemistry can be translated to physics. But can can biology
+be tranlated to chemistry and physics without losing anything
+essential?  A direct translation would account for all proximate
+phenomena but fail to mention evolution.  And in the immortal words of
+Theodosius Dobzhansky, "Nothing in Biology Makes Sense Except in the
+Light of Evolution".  It would also fail to mention information
+processing, in nervous systems and other substrates within organisms.
+Such a reductionist tranlation would be (and is) useful to our
+understanding as long as we understand that it is leaving out some
+important phenomena.
+
+An alternative to Reductionism is E.O. Wilson's concept of
+/Consilience/ where knowledge and understanding stimulates insights
+across diverse fields despite those fields not be reducible to a
+common framework.  I highly recommend his book on the subject:
+[[https://en.wikipedia.org/wiki/Consilience_%28book%29][Consilience: The Unity of Knowledge, 1998]]
