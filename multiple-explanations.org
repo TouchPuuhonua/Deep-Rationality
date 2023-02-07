@@ -3,29 +3,30 @@
 ** How can we understand everything important?
 
 Is it possible to have a good overall understanding of all important subjects, e.g.
-- What am I and what are Human Beings?
-- How can I have a great life?
-- What is the nature of the universe?
-- What is understanding?
+- /What am I/ and /what are Human Beings?/
+- /How can I have a great life?/
+- /What is the nature of the universe?/
+- /What is understanding?/
 
 We often imagine that in order to best address these and other
-important and fudamental questions, we need to find the singular truth
-about them.  This search for a single /true/ explanation is promoted
-by many cultures, especially in their religions and school systems.
-In the modern "western" (post-Enlightenment) world we encounter this
-notion when studying science (especially the physical sciences),
-history, journalism, jurisprudence, etc.
+important and fundamental questions, we need to find the /singular
+truth/ about them.  This search for /a single true explanation/ is
+promoted by many cultures, especially in their religions and school
+systems.  In the modern "western" (post-Enlightenment) world we
+encounter this notion when studying science (especially the physical
+sciences), history, journalism, jurisprudence, etc.
 
 Another idea which has become increasingly popular is the idea of
 understanding being enriched by looking at something from multiple
-diverse viewoints.  This seems to contradict the previous idea.  But
-as David Deutsch might say "This does not prevent both of these
-approaches from being both wrong!"
+diverse viewpoints.  This seems to contradict the previous idea.  But
+as David Deutsch might say "This does not prevent these approaches
+from both being wrong!"
 
 A breakthrough in understanding the nature of understanding was begun
-by Karl Popper and completed by David Deutsch.  They discovered that
-understanding consists of good explanations and proceeded to pin down
-exactly what constitutes a *good explanation*.
+by Karl Popper and completed by David Deutsch.  They explained that
+/understanding/ consists of /good explanations/ and proceeded to pin
+down exactly what constitutes a *good explanation*.  Yes, they
+explained what explanations are!
 
 Rather than my explaining Popper and Deutsch's remarkable discoveries,
 I will refer you to David Deutsch's Ted Talk [[https://www.ted.com/talks/david_deutsch_a_new_way_to_explain_explanation][A new way to explain
@@ -46,10 +47,10 @@ OK: Ready to continue?
 
 So then what's the deal with multiple perspectives?  Aren't they just
 poor substitutes for finding the one best explanation of a subject?
-NO!  THere can be multiple very different good explanations for the
+NO!  There can be multiple very different good explanations for the
 same subject!  Failure to understand this can cause a serious decrease
 in understanding as well as undermine partnership among people who
-hold those different viewpoints and dont onderstasnd one another.
+hold those different viewpoints and don't understand one another.
 
 ** Examples of Multiple Perspectives
 
@@ -77,7 +78,7 @@ Science]].  His theories include
 
 Chomsky transformed our understanding of language, key areas of
 Cognitive Science and much else.  Other Linguists and Cognitive
-Scientists have built on Comsky's work. If you'd like to know more
+Scientists have built on Chomsky's work. If you'd like to know more
 about all of this, I highly recommend the book Steven Pinker's book
 [[https://stevenpinker.com/publications/language-instinct-19942007][The Language Instinct]].
 
@@ -118,7 +119,7 @@ level of *genes* can generate what looks like *altruism* and
 *cooperation* at the level of organisms and groups.  The existence of
 altruism and cooperation in organisms doesn't contradict evolutionary
 biology, instead it enriches our understanding of it.  Sadly, a number
-of the most brilliant explicators of *cooperation* and *parternship*
+of the most brilliant explicators of *cooperation* and *partnership*
 don't understand this and ironically undermine their books about
 *respect* and *understanding* with pot-shots against evolutionary
 biologists and especially Richard Dawkins!
@@ -129,7 +130,7 @@ Richard Dawkins!  Her book [[https://centerforpartnership.org/resources/books/th
 and Learning]] is a good introduction to her thought.  Her models of
 Dominator Systems and Partnership Systems have contributed more to my
 understanding of what's going on in our society than anything else
-I've encountered.  I consister her insights absolutely essential and I
+I've encountered.  I consider her insights absolutely essential and I
 only wish she could see how consilient her theories are with modern
 Evolutionary Biology, Evolutionary Psychology and Game Theory!
 
@@ -172,7 +173,7 @@ interactions among fundamental particles.  An ultimate explanation
 might only describe the evolution of the Schrödinger Equation for our
 part of the Cosmos.
 
-These kinds of explanations illuinate many interesting phenomena, yet
+These kinds of explanations illuminate many interesting phenomena, yet
 they fail to explain the human significance of Heroic Statues or
 Admiral Lord Nelson's accomplishment.  Indeed, the ultimate Laplacian
 explanations have no need to mention statues or human beings at all!
@@ -191,7 +192,7 @@ The Evolutionary Psychology Explanation would explain
 - Admiral Nelson's rôle in that battle
 
 Each element of this explanation can be expanded further to
-increasingly illuminate many facinating topics important to human
+increasingly illuminate many fascinating topics important to human
 beings.  Yet further elaboration of this kind of explanation would not
 increase our understanding of cosmology, physics, chemistry or
 geology.
@@ -238,18 +239,18 @@ greatly in insightfulness and in tractability for specific problems.
 
 *** Consilience vs. Reductionism
 
-Somtimes it's possible to tranlate explanations at a high level to
+Sometimes it's possible to translate explanations at a high level to
 explanations at a lower level without seeming to lose anything
 essential.  This is the classic strategy of reductionism which has be
 the source of a great deal of progress in the physical sciences.  For
 example, chemistry can be translated to physics. But can can biology
-be tranlated to chemistry and physics without losing anything
+be translated to chemistry and physics without losing anything
 essential?  A direct translation would account for all proximate
 phenomena but fail to mention evolution.  And in the immortal words of
 Theodosius Dobzhansky, "Nothing in Biology Makes Sense Except in the
 Light of Evolution".  It would also fail to mention information
 processing, in nervous systems and other substrates within organisms.
-Such a reductionist tranlation would be (and is) useful to our
+Such a reductionist translation would be (and is) useful to our
 understanding as long as we understand that it is leaving out some
 important phenomena.
 
