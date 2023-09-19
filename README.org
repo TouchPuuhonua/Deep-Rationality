@@ -1,66 +1,163 @@
 * Deep Rationality
 
-A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
-** Distinctions of Traditional Rationality
+** What Deep Rationality Offers
 
-The distinctions of /Rationality/ are extremely valuable
-- Using valid reasoning about important issues
-- Detecting Accidental and Malicious Fallacies
-- and so forth
+Deep Rationality offers
+- freedom from attachments based on past upsets
+- clarity to discover what really matters to us
+- the possibility of inventing inspiring futures to live towards
 
-Rationality provides tools for determining if a reasoning process is valid or
-invalid and whether, given a degree of confidence in the truth of the premises,
-what degree of confidence would be justified in the conclusions.
+** What Deep Rationality Doesn't Offer
+- Training in Valid Reasoning
+- for this see the [[https://github.com/GregDavidson/DATDA#readme][LOEL Curriculum on Rationality]]
 
-Study of Rationality and Mathematical Logic which it is based on will reveal
-that there's nothing in either which can help us find or form
-- our goals
-- our values
-- our life purpose
+Rationality and Deep Rationality work well together, despite being quite
+distinct.
 
-The studying of Rationality is directed by our intellect with an awareness of
-our emotions.  It is about the /integrity of our thinking/.
+** Fundamental Deep Rationality Distinctions
 
-** Distinctions of Deep Rationality
+/Deep Rationality/ is directed by distinctions that are
+- of primary importance to all human beings
+- poorly addressed by mainstream culture and education
+- presented in confused forms by most religious and spiritual teachings
+- addressed in sophisticated forms by specialized philosophers
+      - who use specialized academic language
+- therefore: Not very accessible to most human beings!
 
-/Deep Rationality/ is directed by our /Being/. Deep Rationality is a process of
-noticing the ways in which /Who We Are Being/ has been captured by /Belief
-Systems/ and other /Attachments/. Deep Rationality is a practice of noticing
-that those /Attachments/ are mental content which has nothing to do with our
-/Authentic Self/.
+The primary experience of all Human Beings is /Subjective/, not /Objective/
+- Our existence in the world has an immediate quality
+      - /What it's like to be us/ is immediately experienced
+      - that's hard to explain
 
-Said in a simpler way, Deep Rationality is a practice of naturally shedding
-attachments by observing those attachments while standing in our /Authentic
-Self/.
+We learn to interpret much of what we experience as being about
+- /Entities In The World/
+      - sensory experiences help us parse the world into /objects/
+      - we identify
+            - the presence of those objects
+            - their stable characteristics
+            - their current situation and changeable properties
+- /Ourselves/
+      - our body - much like other /objects in the world/
+      - our thoughts and feelings
 
-Deep Rationality is grounded in Being. Being exists only in the moment. Being is
-at the root of our life. When our attention is on the content of our life, we
-can easily lose awareness of what it's like to be who we're being in the present
-moment, we can easily lose awareness of what is determining the quality of our
-being.
+It's easy to make the mistake of
+- interpreting ourselves as just another object in the world
+- with stable characteristics, e.g. our body and mental machinery
+- with properties, including our thoughts and feelings
 
-Deep Rationality tools are designed to allow us to
-- free our attention somewhat from
-      - what we're doing
-      - our thoughts
-      - our feeling
-- have some distance between
-      - the processes going on in our body and our mind
-      - allowing us to notice what it's like
-            - to be present to those processes
-            - to be present to ourselves
-- can notice any attachments coloring the quality of who we're being
+Why is this a mistake?
+- We are what is doing the interpretation
+- The interpretations we create are models
+- /A map is not the territory it described!/
 
-Deep Rationality is an access to clarity, authenticity and integrity of being.
+Than what are we?
+- We are /Subjects/ rather than /Objects/
+- We are the /Source/ of our /Interpretations/
+- We are the /Context/ witnessing and interpreting the /Content/
+- We are Human /Beings/ experiencing
+      - the Quality of /Being in the World/ along Evolving Time
+
+** So What? - Briefly
+
+What's wrong with identifying ourselves as an Object?
+
+An Object is defined by its
+- stable characteristics
+- known properties whose values change in limited ways
+
+Objects don't have any inherent meaning, purpose or dignity
+
+Subjects have
+- a Quality of Being
+- what it's like to Be Themselves
+- an Authentic Self
+
+Subjects are always and naturally
+- Creating Interpretations
+- Creating and Discovering Meaning
 
 When we are present to our authentic self, we have the power to
 - notice our values
 - create goals which are congruent with our values
-- authentically change and discard goals which do not serve us
+- authentically discard or change goals
 - discover/create our life purpose
 
+** So What? - At Greater Length
+
+When we model a Human Being as an Object
+- they become a stereotype
+- we interpret them as being limited
+- we create an illusion of predictability
+- we lose the richness of their full being
+
+When we model ourselves as an Object
+- we become a stereotype to ourselves
+- we interpret ourselves as being limited
+- we expect our future to be consistent with our past
+- (we may experience being trapped!)
+- we lose the richness of our full being
+- we lose the ability to /Create New Futures!/
+
+Experiencing our immediate quality of Being
+- is fresh, energizing
+- cuts through our objectifications
+- reveals where we've become trapped by attachments
+
+Buddhism identifies the source of suffering as Attachment
+- to our interpretations
+- to our points of view
+- to our thoughts and feelings
+- to Belief Systems
+- to any Content
+
+Attachments turn us into Objects.
+
+Key practices of Deep Rationality are
+- noticing constraints in the Quality of our Being
+- identifying attachments
+- letting go of those attachments
+- engaging with our new freedom of being
+- rediscovering our /Authentic Self/
+
+Shared Belief Systems can be difficult to distinguish
+- they seem to just be "how reality is"
+- (his is how superstitions operate!)
+- Diversity in our community can be very helpful!
+- Exposing ourselves to the new can be very helpful!
+
+Deep Rationality is grounded in Being.
+- Being exists only in the moment.
+- Being is at the root of our life.
+
+Much of our time we have our attention on the content of our life
+- We easily lose awareness of /How We're Being/.
+- Of the quality of being who we are in this moment.
+- We forget who we are
+- We unintentionally undermine the quality of our life
+- We may feel like somethings off, something important is missing
+
+Deep Rationality tools are designed to allow us to periodically
+- free our attention somewhat from
+      - what we're doing
+      - our thoughts
+      - our feeling
+- create some distance between
+      - the processes going on in our body and our mind
+      - allowing us to notice what it's like
+            - to be present to those processes
+            - to be present to ourselves
+- notice any attachments coloring the quality of who we're being
+
+Deep Rationality is an access to
+- clarity
+- authenticity
+- integrity of being
+
 ** Deep Rationality Resources
+
+[[https://touchpuuhonua.github.io/SomeClues/][Some Clues]]
 
 *** Books and Audio Recordings
 
