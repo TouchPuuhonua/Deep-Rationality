@@ -2,6 +2,9 @@
 
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
+We recommend reading this document slowly, a few sections at a time.
+Pause, reflect, browse resources, come back for more.
+
 ** What Deep Rationality Offers
 
 Deep Rationality offers
@@ -123,7 +126,7 @@ Key practices of Deep Rationality are
 
 Shared Belief Systems can be difficult to distinguish
 - they seem to just be "how reality is"
-- (his is how superstitions operate!)
+- (This is how superstitions operate!)
 - Diversity in our community can be very helpful!
 - Exposing ourselves to the new can be very helpful!
 
@@ -159,13 +162,25 @@ Deep Rationality is an access to
 
 Some LOEL creators offer [[https://touchpuuhonua.github.io/SomeClues/][Some Clues For You]]!
 
-*** Books and Audio Recordings
+*** Books, Audio Recordings, Videos
 
-The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]] are a treasure of Deep Rationality.
+Books make it easier for you as the Reader to pause and reflect.  Deep
+Rationality books should usually be read slowly, a few pages or
+sections at a time.  Audio Recordings and Videos are more immersive
+but make it harder for you to reflect - this can be good as well as
+bad!
 
-*** Videos
+The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]]
+- a treasure of Deep Rationality
+- Alan Watts has made much of South and East Asian Deep Rationality
+  accessible to everyone
 
-Some of the videos on the [[https://www.youtube.com/channel/UCMc7f-KqL59uuAUbB7BtAMg][Be The Change YouTube Channel]].
+*Nonviolent (Compassionate) Communication*  aka NVC Materials
+- /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
+- /Nonviolent Communication Companion Workbook/ by Lucy Leu
+  - Guides individuals and informal groups in studying Nonviolent
+    Communication
+- Lots of other books, recordings and videos
 
 *** Workshops
 
