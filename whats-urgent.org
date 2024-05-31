@@ -1,0 +1,60 @@
+* What Is Both Important And Urgent?
+
+Two common ways of blowing the big stuff:
+1. Being in action on what seems urgent but isn't what we really care about
+2. Not being in action because of uncertainty, fear, stress, etc.
+       - Hint: Self-Shaming is a key part of the meme complex which keeps us out
+         of action!
+
+** Being in Action Rationally
+
+1. Find out what's important to you!
+       - This is [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]
+       - If this seems too woo-woo, maybe revisit it later?
+2. Find out what's really going on in that area
+       - Long-term dysfunction is usually being maintained by some active process!
+       - Be an open-minded sceptic!
+
+** Urgent for Whom?
+
+*** Circles of Concern
+
+Who or what do we care about?
+
+We can organize this into Circles of Concern.  From smallest to largest:
+- Who or what I care about
+      - myself right now
+            - my immediate desires
+      - my future
+            - my aspirations for the quality of my life
+      - people I know who I care about
+            - family, friends, etc.
+      - people I approve of
+            - people who share my values
+            - people who exhibit virtual as I see such
+      - all human beings, or maybe
+      - all sentient and sapient beings
+            - which have an inner life
+            - including minds, loves and aspirations for the future
+      - all sentient beings
+            - which can experience lives of varying quality
+            - including the ability to suffer or experience well-being
+      - life in general or maybe
+      - healthy ecosystems
+
+*** What We Need vs. What We Want
+
+It's easy to confuse
+- What we want as a fundamental value or need
+      - e.g. freedom, expressing love, making a difference to others, etc.
+- What we want as a strategy for meeting our values or needs
+      - a lucrative job, an investment portfolio, etc.
+      - membership in elite clubs and organizations
+      - people who do what we tell them to do
+      - etc.
+
+** Links
+
+- the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]]
+      - [[file:../README.org][Deep Rationality]]
+      - [[https://github.com/GregDavidson/DATDA#readme][Rationality]]

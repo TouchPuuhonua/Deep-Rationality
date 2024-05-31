@@ -1,0 +1,52 @@
+* Resources for Deep Rationality
+
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource List]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+
+Please assist us in increasing and improving this list of resources on
+Deep Rationality!
+
+** Clues
+
+[[https://touchpuuhonua.github.io/SomeClues/][Clues, not answers, for various areas of life]]
+
+** Maslow's Hierarchy
+
+- [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Wikipedia on Maslow's Hierarchy]]
+
+** Nonviolent Communication
+
+- [[https://en.wikipedia.org/wiki/Nonviolent_Communication][Wikipedia on Nonviolent Communication]]
+
+** Wisdom Traditions Without Supernatural Elements
+
+[[https://en.wikipedia.org/wiki/Buddhism][Buddhism]]
+- [[https://en.wikipedia.org/wiki/Zen][Zen]]
+
+[[https://en.wikipedia.org/wiki/Taoism][Taoism]]
+- Tao Te Ching translations
+      - [[https://taoism.net/tao-te-ching-online-translation/][Taoism.net]]
+      - [[https://archive.org/details/laozi_tao-te-ching][translated by James Legge]]
+      - [[http://timelessminutes.com/tao-te-ching-complete-text/][translated by J.H.McDonald]]
+      - [[https://www.organism.earth/library/document/tao-te-ching][tranlated by Stephen Mitchell]]
+      - [[https://terebess.hu/english/tao/_index.html][A plethora of translations!]]
+
+[[https://alanwatts.org][Alan Watts]] (Zen & Taoism)
+      - his animated talks on [[https://www.youtube.com/@AfterSkool][AfterSkool YouTube Channel]]
+      - [[https://youtu.be/-ZfHVx1y2P0?si=Dg1KigW5e8iIysPG][reading the complete Tao Te Ching on YouTube]]
+      - [[https://alanwatts.org/transcripts/taoist-way/][the Taoist Way]]
+      - [[https://en.wikipedia.org/wiki/Alan_Watts_bibliography][complete works]]
+
+[[https://en.wikipedia.org/wiki/Stoicism][Stoicism]] from the Greco-Roman Era
+- [[https://en.wikipedia.org/wiki/Stoicism][Wikipedia on Stoicism]]
+- [[http://classics.mit.edu/Antoninus/meditations.html][The Meditations by Marcus Aurelius]]
+
+[[https://en.wikipedia.org/wiki/Existentialism][Existentialism]] in 20th Century Philosophy
+
+[[https://en.wikipedia.org/wiki/Ontology][Ontology]] in Philosophy
+
+** Promising Resources to Process
+
+These resources are awaiting proper review and indexing.
+
+- [[https://www.youtube.com/@AfterSkool][AfterSkool]] YouTube Channel
+- [[https://www.youtube.com/@bethechange8425][Be The Change]] YouTube Channel with Lynn Dobbs
