@@ -5,21 +5,53 @@ A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resourc
 Please assist us in increasing and improving this list of resources on
 Deep Rationality!
 
+Know Thyself!
+
 ** Clues
 
 [[https://touchpuuhonua.github.io/SomeClues/][Clues, not answers, for various areas of life]]
 
 ** Maslow's Hierarchy
 
-- [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Wikipedia on Maslow's Hierarchy]]
+ [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Wikipedia on Maslow's Hierarchy]]
 
-** Nonviolent Communication
+*** Human Sexuality and Gender
 
-- [[https://en.wikipedia.org/wiki/Nonviolent_Communication][Wikipedia on Nonviolent Communication]]
+Stan Dale, the founder of the [[https://www1.hai.org][Human Awareness Institute]] would ask people
+- What is Sex
+- What is Love?
+- What is Intimacy?
+and then go on to ask
+- Who told you?
+and
+- Why did you believe them?
 
-** Wisdom Traditions Without Supernatural Elements
+Almost all human beings are thoroughly confused about these matters!
 
-[[https://en.wikipedia.org/wiki/Buddhism][Buddhism]]
+What do you think you know about your
+- biological sex?
+- gender?
+- needs and possibilities for intimate connection?
+  - for sexual connection?
+  - with others and with yourself?
+Are these areas of
+- known definitions and answers
+- fear and shame
+- endless exciting explorations?
+
+*** A Few Books
+
+[[https://en.wikipedia.org/wiki/Why_Is_Sex_Fun%3F][Why Is Sex Fun]]
+- by /Jared Diamond//
+- a great introduction to /Evolutionary Psychology/
+
+[[https://rianeeisler.com/sacred-pleasure-sex-myth-and-the-politics-of-the-body-new-paths-to-power-and-love/][Sacred Pleasure: Sex, Myth, and the Politics of the Body, New Paths to Power and Love]]
+- by /Riane Eisler/
+- a profound exploration of the paradigms influencing the quality of
+  our lives
+
+** Wisdom Traditions
+
 - [[https://en.wikipedia.org/wiki/Zen][Zen]]
 
 [[https://en.wikipedia.org/wiki/Taoism][Taoism]]
@@ -44,7 +76,7 @@ Deep Rationality!
 
 [[https://en.wikipedia.org/wiki/Ontology][Ontology]] in Philosophy
 
-** Promising Resources to Process
+** Resource Inbox
 
 These resources are awaiting proper review and indexing.
 

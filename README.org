@@ -5,6 +5,9 @@ A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org]
 We recommend reading this document slowly, a few sections at a time.
 Pause, reflect, browse resources, come back for more.
 
+You may also find some of these [[file:RESOURCES.org][Resources on Deep Rationality]] to be of
+interest.
+
 ** What Deep Rationality Offers
 
 Deep Rationality offers
@@ -166,9 +169,21 @@ Some LOEL creators offer [[https://touchpuuhonua.github.io/SomeClues/][Some Clue
 
 Books make it easier for you as the Reader to pause and reflect.  Deep
 Rationality books should usually be read slowly, a few pages or
-sections at a time.  Audio Recordings and Videos are more immersive
-but make it harder for you to reflect - this can be good as well as
-bad!
+sections at a time.  It can be useful to write down questions,
+insights, etc.
+
+Audio Recordings and Videos have a fixed presentation rate which you
+mostly have to adapt to.  This can inhibit reflection.  See if you can
+pause them fairly often.  It can be useful to record (as audio or
+written notes) questions, insights, etc.
+
+Find others who are interested in similar inquiry, growth and
+development.  Discuss your questions and insights with them.
+
+Reflect on your insights:
+- What would be available in my life if I were to fully realize this
+  insight?
+- How can seize the opportunity to live into this new future?
 
 The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]]
 - a treasure of Deep Rationality
@@ -232,3 +247,12 @@ A good test for whether a system of Deep Rationality is free of excessive
 attachments is to see if it is consistent with regular Rationality, Scientific
 Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European Enlightenment]], the sources of so much of
 the freedom and awesomeness of the modern world.
+
+** Know Thyself
+
+Your body (including your mind) is your vehicle in this life.  It has
+a particular design with needs, drives, emotions, sexual and gender
+orientations, cognitive limitations, biases and more.
+
+What relationship with your body and your mind will support your
+power, freedom and authenticity?
