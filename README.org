@@ -2,6 +2,12 @@
 
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
+NOTE: Development of this "Curriculum" has just started.
+- There are already some valuable resources here.
+- Would you like to
+    - contribute more resources?
+    - help shape it into a full curriculum?
+
 ** Distinctions of Traditional Rationality
 
 The distinctions of /Rationality/ are extremely valuable
