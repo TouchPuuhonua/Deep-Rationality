@@ -1,4 +1,4 @@
-* What's Urgent
+* What's Urgent?
 
 This document is a stub to be replaced with something which addresses
 this question properly.
@@ -7,7 +7,6 @@ this question properly.
 
 Or: What might be worth devoting a significant amount of our life
 focus towards?
-
 
 ** References or subsections
 
