@@ -5,15 +5,16 @@ A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org]
 We recommend reading this document slowly
 - A few sections at a time
 - Pause, reflect, take notes, share with others
-- Explore some of these
+- Explore some of the
   - [[file:RESOURCES.org][Resources on Deep Rationality]]
 - Then come back for more!
 
 ** What Deep Rationality Offers
 
-Deep Rationality offers
 - Freedom :: from attachments based on past upsets.
+
 - Clarity :: to discover what really matters to us.
+
 - Possibilities :: for inventing inspiring futures to live towards.
 
 ** What Deep Rationality Doesn't Offer
