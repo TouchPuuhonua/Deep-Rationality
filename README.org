@@ -11,16 +11,16 @@ interest.
 ** What Deep Rationality Offers
 
 Deep Rationality offers
-- freedom from attachments based on past upsets
-- clarity to discover what really matters to us
-- the possibility of inventing inspiring futures to live towards
+- Freedom :: from attachments based on past upsets.
+- Clarity :: to discover what really matters to us.
+- Possibilities :: for inventing inspiring futures to live towards.
 
 ** What Deep Rationality Doesn't Offer
 - Training in Valid Reasoning
 - for this see the [[https://github.com/GregDavidson/DATDA#readme][LOEL Curriculum on Rationality]]
 
-Rationality and Deep Rationality work well together, despite being quite
-distinct.
+Rationality and Deep Rationality work well together, despite being
+logically distinct.
 
 At the logical level, irrationality can lead to us making mistakes
 about our understanding of the world and our strategies for meeting
