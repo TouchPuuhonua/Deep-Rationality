@@ -22,6 +22,17 @@ Deep Rationality offers
 Rationality and Deep Rationality work well together, despite being quite
 distinct.
 
+At the logical level, irrationality can lead to us making mistakes
+about our understanding of the world and our strategies for meeting
+our goals.
+
+At the deeper level, irrationality can lead us to fundamentally
+misunderstand ourselves and our values.  Beliefs are even more of an
+issue at this deeper level, as they become connected with our identity
+and we hide them from ourselves.  Contradictions to our beliefs tend
+to make us hold to them more tightly, carefully not looking at them
+critically.
+
 ** Fundamental Deep Rationality Distinctions
 
 /Deep Rationality/ is directed by distinctions that are
@@ -161,9 +172,63 @@ Deep Rationality is an access to
 - authenticity
 - integrity of being
 
+** Culture and Memes Own You!
+
+Cultures largely consist of vast overlapping and nested collections of
+memes.  As a social animal with language, you and they have
+co-evolved, i.e. human beings have slowly evolved to enhance their
+receptiveness to being colonized by networks of memes and those
+networks of memes undergo rapid evolution to enhance their their
+ability to colonize human beings!
+
+[[https://en.wikipedia.org/wiki/Meme][Memes]] are the smallest units of meaning which can be transmitted from
+one person to another, typically by human language, but also by music,
+art, behavior, etc.  Most memes make little impression on the
+recipient and are not retained very long.  Some other memes change the
+direction of the recipient's life profoundly.
+
+Memes replicate by being transmitted.  Errors in transmission cause
+variations.  Memes compete with one another for the limited memory and
+attentional resources of the recipient's brain - your brain.  Memes
+which do a better job of holding your attention or installing
+themselves in your memory are "fitter" than competing memes - does
+this start to sound familiar?
+
+Memes are replicators which mutate and are subject to [[https://en.wikipedia.org/wiki/Natural_selection][Natural
+Selection]] much like genes are.  Indeed, it was the evolutionary
+biologist Richard Dawkins who noticed this resemblance and introduced
+them in a chapter of his enlightening little book [[https://en.wikipedia.org/wiki/The_Selfish_Gene][The Selfish Gene]].
+Memetic evolution works on a /much/ faster time scale than genetic
+evolution, although with human beings the two go together.  The human
+mind emerges in part from the partnership of the human brain and its
+vast network of memes.  (Another key element is Consciousness - which
+no one understands very well!)
+
+/an aside:/
+
+Many otherwise rational people who hold [[https://en.wikipedia.org/wiki/Progressivism][Progressive]] /Beliefs/ - as
+distinct from /Progressive Values/ - consider [[https://en.wikipedia.org/wiki/Richard_Dawkins][Richard Dawkins]] and
+especially his book /The Selfish Gene/ to be [[https://en.wikipedia.org/wiki/Anathema][Anathema]].  This is a
+great example of how belief systems can undermine our integrity and
+values.  Many rational thinkers with good values and important ideas
+have been subject to [[https://en.wikipedia.org/wiki/Cancel_culture][Cancel Culture]] by people who claim to be
+progressive.  People who entangle their beliefs with their personal
+and social identities become enemies of their own needs and values!
+
+/Back to memes:/
+
+Memes do not act on their own, any more than words in a sentence are
+acting on their own.  Memes form coalitions in order to more
+efficiently acquire your brain's (and mind's) resources.  Memes within
+such coalitions attach themselves to your [[file:nvc-feelings-and-needs-inventory.pdf][Fundamental Human Feelings
+And Needs]].
+
+[[https://en.wikipedia.org/wiki/Mindfulness][Mindfulness Meditation]] is very useful to observing the memes and meme
+coalitions which have colonized us and how they effect us.
+
 ** Deep Rationality Resources
 
-Some LOEL creators offer [[https://touchpuuhonua.github.io/SomeClues/][Some Clues For You]]!
+- [[https://touchpuuhonua.github.io/SomeClues/][Some Clues For You]]!
 
 *** Books, Audio Recordings, Videos
 
@@ -174,8 +239,9 @@ insights, etc.
 
 Audio Recordings and Videos have a fixed presentation rate which you
 mostly have to adapt to.  This can inhibit reflection.  See if you can
-pause them fairly often.  It can be useful to record (as audio or
-written notes) questions, insights, etc.
+pause them fairly often.  It can be useful to record your questions
+and insights as audio or (ideally) written notes to deepen the
+inquiry.
 
 Find others who are interested in similar inquiry, growth and
 development.  Discuss your questions and insights with them.
@@ -202,12 +268,35 @@ The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordi
 The [[https://www1.hai.org][Human Awareness Institute]] Workshops.
 
 [[https://www.landmarkworldwide.com][Landmark Worldwide]]'s workshops, especially
-- Their full /Curriculum for Living/
+- Their original /Curriculum for Living/
       - The Landmark Forum
       - The Landmark Advanced Course
       - The Self-Expression and Leadership Program
             - do not miss this last part of the Curriculum!
-- their /Communication/, /Wisdom/ and /Leadership/ curricula
+- their other workshops and curricula are also valuable
+  - e.g. their /Communication/, /Wisdom/ and /Leadership/ tracks.
+- Note: Landmark is often criticized for their "sales" techniques.
+  Whether this bothers you or not, they are truly a treasure.
+
+NVC Workshops and Study Groups
+- In addition to reading books about NVC, especially
+  - /Nonviolent Communication: A Language of Life/ by NVC's founder
+  - and its companion book
+it can be useful to go deeper through
+- Workshops taught by experienced NVC Facilitators (Caveat Emptor)
+- Informal reading groups.
+
+NVC Study Groups are quite nice:
+- You meet with a group of friends once a week or every-other week
+  - in one another's homes or a pleasant [[https://en.wiktionary.org/wiki/third_place#English][Third Place]]
+- For each meeting you
+  - focus on one chapter in the (or each) book
+    - either just Marshall Rosenberg's /A Language of Life/
+    - or both that and Lucy Liu's /Companion Workbook/
+      - they have corresponding chapters
+  - engage with the current chapter's material in your daily life
+    between meetings
+  - share with your friends about what you're discovering
 
 *** Relevant Philosophical Traditions
 
@@ -220,35 +309,38 @@ Philosophers have continued to explore Deep Rationality.
 - [[https://en.wikipedia.org/wiki/Existentialism][Existentialism]]
 - [[https://en.wikipedia.org/wiki/Ontology][Ontology]]
 
-Warning: Approaching these philosophical subjects only intellectually will only
-cultivate a narrow intellectual mode of being which, despite its value for
-purely intellectual inquiry, fundamentally alienates us from being present to
-the quality of our experience of being - which is highly ironic! One must
-carefully balance these intellectual inquiries with experiential inquiries and
-notice where and how they can assist with the quality of such.
+Warning: Approaching these philosophical subjects only intellectually
+will only cultivate a narrow intellectual mode of being which, despite
+its value for purely intellectual inquiry, fundamentally alienates us
+from being present to the quality of our experience of being - which
+is highly ironic! One must carefully balance these intellectual
+inquiries with experiential inquiries and notice where and how they
+can assist with the quality of such.
 
 *** Spiritual Communities and Traditions
 
-Many spiritual communities have developed profound and effective tools for
-accessing and practicing Deep Rationality. Alas, many of these traditions have
-also collapsed some of their Deep Rationality distinctions with belief systems
-and/or authoritarian practices over time. Collapsed distinctions can be
-confusing, especially for those who have not practiced Deep Rationality outside
-of such traditions.
+Many spiritual communities have developed profound and effective tools
+for accessing and practicing Deep Rationality. Alas, many of these
+traditions have collapsed some of their Deep Rationality distinctions
+with belief systems and/or authoritarian practices from the
+surrounding cultures over time. Collapsed distinctions can be
+confusing, especially for those who have not practiced Deep
+Rationality outside of such traditions.
 
-Those of us who have a strong practice of Deep Rationality free of spiritual
-traditions may discover that such traditions offer great treasure. Of especial
-note are
+Those of us who have a strong practice of Deep Rationality free of
+spiritual traditions may discover that such traditions offer great
+treasure. Of especial note are
 - Many forms of Buddhism, especially Zen Buddhism
 - Taoism
 - Sufism, distinct from other forms of Islam
 
-A good test for whether a system of Deep Rationality is free of excessive
-attachments is to see if it is consistent with regular Rationality, Scientific
-Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European Enlightenment]], the sources of so much of
-the freedom and awesomeness of the modern world.
+A good test for whether a system of Deep Rationality is free of
+excessive attachments is to see if it is consistent with regular
+Rationality, Scientific Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European
+Enlightenment]], the sources of so much of the freedom and awesomeness
+of the modern world.
 
-** Know Thyself
+** [[https://en.wikipedia.org/wiki/Know_thyself][Know Thyself]]
 
 Your body (including your mind) is your vehicle in this life.  It has
 a particular design with needs, drives, emotions, sexual and gender
