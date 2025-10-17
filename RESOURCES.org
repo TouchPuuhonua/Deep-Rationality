@@ -3,7 +3,8 @@
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource List]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
 Please assist us in increasing and improving this list of resources on
-Deep Rationality!
+Deep Rationality!  Unsorted new material can be added to the /Resource
+Inbox/ at the end of this document.
 
 Know Thyself!
 
@@ -11,17 +12,168 @@ Know Thyself!
 
 [[https://touchpuuhonua.github.io/SomeClues/][Clues, not answers, for various areas of life]]
 
+Leverage Your Community!
+
+Find others who are interested in similar inquiry, growth and
+development.  Discuss your questions and insights with them.
+
+Reflect on your insights:
+- What would be available in my life if I were to fully realize this
+  insight?
+- How can seize the opportunity to live into this new future?
+
+** Books, Audio Recordings, Videos
+
+*** Books vs. Linear Media
+
+Books make it easy for you as the Reader to pause and reflect.  Deep
+Rationality books should usually be read slowly, a few pages or
+sections at a time.  It can be useful to write down questions,
+insights, etc.
+
+Audio Recordings and Videos are /linear media/.  They have a fixed
+presentation rate which you have to adapt to.  If you're not careful,
+they'll train you to be passive, to not think for yourself.  When your
+own thoughts get cooking, you miss the next part of the linear
+presentation!
+
+For maximum value, take control of /linear media/:
+- Some audiobook players let you control the playback speed.
+- Pause any audio or video playback at the end of each section.
+- Think and take notes.
+- Replay key parts.
+
+A character in Heinlein's /Have Spaceship Will Travel/ said
+- A /Good Book/ is a book which you can /read a second time/ and you'll
+  get more value from it.
+- A /Great Book/ is a book which you can /read any number of times/
+  and you'll get more value each time!
+
+When it comes to Deep Rationality, worthwhile books (and other media)
+tend to be (need to be) /Great Books/ - accept no others!  You will
+want to
+- Read these books slowly
+  - Read a bit
+  - Set the book aside
+  - Contemplate, take some notes.
+- Re-read later when you've moved forward in your life.
+
+*** Alan Watts
+
+The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]]
+- A treasure of Deep Rationality!
+- Alan Watts has made much of South and East Asian Deep Rationality
+  accessible to everyone.
+
+*** NVC - A Model for Deep Empathy
+
+Why is it called /Non-Violent Communication/?
+
+The term Non-Violent Communication comes from Marshall Rosenberg's
+work with the Gandhi Society in India which uses the traditional
+Sanskrit term Ahimsa which translates as Non-Violence.
+
+Marshall Rosenberg also called it
+- Compassionate Communication
+- A Language of LIfe
+- or just NVC
+
+Perhaps a better term in English would be
+- Deep Empathy :: A Practice of Listening for Human Needs
+
+The two fundamental resources:
+
+- /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
+  - Clear, concise and utterly brilliant and deep!
+  - Best read slowly and more than once!
+  - Let's call this NVC:ALOL
+
+- /Nonviolent Communication Companion Workbook/ by Lucy Leu
+  - Guides individuals and informal groups in studying NVC:ALOL.
+  - Has chapters corresponding to the chapters inNVC:ALOL.
+  - You can read these chapters to deepen your study.
+
+If you want more, or if reading isn't your thing:
+- You'll find lots of other books, recordings and videos on NVC!
+
+Also look for NVC under /Workshops/ below.
+
+*** Evolutionary Psychology
+
+To /Know Thyself/ we need to understand how evolution has shaped our
+bodies and our minds.
+
+[[https://en.wikipedia.org/wiki/Why_Is_Sex_Fun%3F][Why Is Sex Fun]]
+- by /Jared Diamond//
+- A delightful introduction to [[https://en.wikipedia.org/wiki/Evolutionary_psychology][Evolutionary Psychology]]!
+
+There are a great deal of other introductions and advanced materials
+on Evolutionary Psychology - it's a vast and diverse field.
+
+*** Partnership vs. Dominator Culture
+
+Rieane Eisler has extraordinary insight about how Partnership Networks
+and Dominator Hierarchies form in our social systems, and how these
+structures affect /everything!/
+
+[[https://rianeeisler.com/sacred-pleasure-sex-myth-and-the-politics-of-the-body-new-paths-to-power-and-love/][Sacred Pleasure: Sex, Myth, and the Politics of the Body]]
+- by /Riane Eisler/
+- This book offers Riane Eisler's wisdom in an extensive and
+  delightful form.
+- A profound exploration of the paradigms influencing the quality of
+  our lives!
+- Sometimes a bit wordy and logically mushy :-)
+  - and a /profound and enlightening gift!/
+
+Eisler has books and presentations you could consult instead if you're
+not up to a big read.
+
+** Workshops
+
+The [[https://www1.hai.org][Human Awareness Institute]] Workshops.
+
+[[https://www.landmarkworldwide.com][Landmark Worldwide]]'s workshops, especially
+- Their original /Curriculum for Living/
+      - The Landmark Forum
+      - The Landmark Advanced Course
+      - The Self-Expression and Leadership Program
+            - do not miss this last part of the Curriculum!
+- their other workshops and curricula are also valuable
+  - e.g. their /Communication/, /Wisdom/ and /Leadership/ tracks.
+- Note: Landmark is often criticized for their "sales" techniques.
+  Whether this bothers you or not, they are truly a treasure.
+
+NVC Workshops and Study Groups
+- In addition to reading books about NVC, especially
+  - /Nonviolent Communication: A Language of Life/ by NVC's founder
+  - and its companion book
+it can be useful to go deeper through
+- Workshops taught by experienced NVC Facilitators (Caveat Emptor)
+- Informal reading groups.
+
+NVC Study Groups are quite nice:
+- You meet with a group of friends once a week or every-other week
+  - in one another's homes or a pleasant [[https://en.wiktionary.org/wiki/third_place#English][Third Place]]
+- For each meeting you
+  - focus on one chapter in the (or each) book
+    - either just Marshall Rosenberg's /A Language of Life/
+    - or both that and Lucy Liu's /Companion Workbook/
+      - they have corresponding chapters
+  - engage with the current chapter's material in your daily life
+    between meetings
+  - share with your friends about what you're discovering
+
 ** Maslow's Hierarchy
 
  [[https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs][Wikipedia on Maslow's Hierarchy]]
 
 *** Human Sexuality and Gender
 
-Stan Dale, the founder of the [[https://www1.hai.org][Human Awareness Institute]] would ask people
+Stan Dale, the founder of the [[https://www1.hai.org][Human Awareness Institute]] would ask people:
 - What is Sex
 - What is Love?
 - What is Intimacy?
-and then go on to ask
+and then go on to ask:
 - Who told you?
 and
 - Why did you believe them?
@@ -39,18 +191,24 @@ Are these areas of
 - fear and shame
 - endless exciting explorations?
 
-*** A Few Books
+*** Related Philosophical Traditions
 
-[[https://en.wikipedia.org/wiki/Why_Is_Sex_Fun%3F][Why Is Sex Fun]]
-- by /Jared Diamond//
-- a great introduction to /Evolutionary Psychology/
+Deep Rationality was very important to Early Philosophers. Some more recent
+Philosophers have continued to explore Deep Rationality.
 
-[[https://rianeeisler.com/sacred-pleasure-sex-myth-and-the-politics-of-the-body-new-paths-to-power-and-love/][Sacred Pleasure: Sex, Myth, and the Politics of the Body, New Paths to Power and Love]]
-- by /Riane Eisler/
-- a profound exploration of the paradigms influencing the quality of
-  our lives
+- [[https://plato.stanford.edu/entries/socrates/][Socrates]]
+- [[https://en.wikipedia.org/wiki/Stoicism][Stoicism]]
+      - See [[https://www.gutenberg.org/ebooks/2680][Meditations]] by the Emperor of Rome, [[https://en.wikipedia.org/wiki/Marcus_Aurelius][Marcus Aurelius]]
+- [[https://en.wikipedia.org/wiki/Existentialism][Existentialism]]
+- [[https://en.wikipedia.org/wiki/Ontology][Ontology]]
 
-** Wisdom Traditions
+Warning: Approaching these philosophical subjects only intellectually
+will only cultivate a narrow intellectual mode of being which, despite
+its value for purely intellectual inquiry, fundamentally alienates us
+from being present to the quality of our experience of being - which
+is highly ironic! One must carefully balance these intellectual
+inquiries with experiential inquiries and notice where and how they
+can assist with the quality of such.
 
 - [[https://en.wikipedia.org/wiki/Zen][Zen]]
 
@@ -75,6 +233,29 @@ Are these areas of
 [[https://en.wikipedia.org/wiki/Existentialism][Existentialism]] in 20th Century Philosophy
 
 [[https://en.wikipedia.org/wiki/Ontology][Ontology]] in Philosophy
+
+*** Spiritual Communities and Traditions
+
+Many spiritual communities have developed profound and effective tools
+for accessing and practicing Deep Rationality. Alas, many of these
+traditions have collapsed some of their Deep Rationality distinctions
+with belief systems and/or authoritarian practices from the
+surrounding cultures over time. Collapsed distinctions can be
+confusing, especially for those who have not practiced Deep
+Rationality outside of such traditions.
+
+Those of us who have a strong practice of Deep Rationality free of
+spiritual traditions may discover that such traditions offer great
+treasure. Of especial note are
+- Many forms of Buddhism, especially Zen Buddhism
+- Taoism
+- Sufism, distinct from other forms of Islam
+
+A good test for whether a system of Deep Rationality is free of
+excessive attachments is to see if it is consistent with regular
+Rationality, Scientific Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European
+Enlightenment]], the sources of so much of the freedom and awesomeness
+of the modern world.
 
 ** Resource Inbox
 

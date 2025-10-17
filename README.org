@@ -5,8 +5,8 @@ A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org]
 We recommend reading this document slowly, a few sections at a time.
 Pause, reflect, browse resources, come back for more.
 
-You may also find some of these [[file:RESOURCES.org][Resources on Deep Rationality]] to be of
-interest.
+Explore some of these
+- [[file:RESOURCES.org][Resources on Deep Rationality]]
 
 ** What Deep Rationality Offers
 
@@ -35,7 +35,7 @@ critically.
 
 ** Fundamental Deep Rationality Distinctions
 
-/Deep Rationality/ is directed by distinctions that are
+/Deep Rationality/ consists of distinctions that are
 - of primary importance to all human beings
 - poorly addressed by mainstream culture and education
 - presented in confused forms by most religious and spiritual teachings
@@ -46,23 +46,21 @@ critically.
 The primary experience of all Human Beings is /Subjective/, not /Objective/
 - Our existence in the world has an immediate quality
       - /What it's like to be us/ is immediately experienced
-      - that's hard to explain
+      - [[https://en.wikipedia.org/wiki/Hard_problem_of_consciousness][that's hard to explain!]]
 
 We learn to interpret much of what we experience as being about
-- /Entities In The World/
-      - sensory experiences help us parse the world into /objects/
-      - we identify
-            - the presence of those objects
-            - their stable characteristics
-            - their current situation and changeable properties
-- /Ourselves/
-      - our body - much like other /objects in the world/
-      - our thoughts and feelings
+- /Objects In The World/
+- We learn to parse Sensory Experience into /Objects/!
+We identify /Objects:/
+- the presence of those objects
+- what state they are in
+  - the properties that shouldn't change
+  - the properties which change, and how
 
 It's easy to make the mistake of
-- interpreting ourselves as just another object in the world
-- with stable characteristics, e.g. our body and mental machinery
-- with properties, including our thoughts and feelings
+- interpreting Ourselves as just another /Object In The World/
+- with stable characteristics, e.g. our body and mind
+- containing elements, including our thoughts and feelings
 
 Why is this a mistake?
 - We are what is doing the interpretation
@@ -75,6 +73,15 @@ Than what are we?
 - We are the /Context/ witnessing and interpreting the /Content/
 - We are Human /Beings/ experiencing
       - the Quality of /Being in the World/ along Evolving Time
+
+Thoughts and Feelings have /no natural persistence!/
+- No more than images in the eye or sounds in the ear!
+- Appearances of persistence are actually reactivations
+  - Which take active work on the part of the brain/mind!
+- If you stop /giving attention/ to any thought or feeling
+  - It will almost immediately disappear!
+
+More details on this in the section on /Memes/ below.
 
 ** So What? - Briefly
 
@@ -225,120 +232,6 @@ And Needs]].
 
 [[https://en.wikipedia.org/wiki/Mindfulness][Mindfulness Meditation]] is very useful to observing the memes and meme
 coalitions which have colonized us and how they effect us.
-
-** Deep Rationality Resources
-
-- [[https://touchpuuhonua.github.io/SomeClues/][Some Clues For You]]!
-
-*** Books, Audio Recordings, Videos
-
-Books make it easier for you as the Reader to pause and reflect.  Deep
-Rationality books should usually be read slowly, a few pages or
-sections at a time.  It can be useful to write down questions,
-insights, etc.
-
-Audio Recordings and Videos have a fixed presentation rate which you
-mostly have to adapt to.  This can inhibit reflection.  See if you can
-pause them fairly often.  It can be useful to record your questions
-and insights as audio or (ideally) written notes to deepen the
-inquiry.
-
-Find others who are interested in similar inquiry, growth and
-development.  Discuss your questions and insights with them.
-
-Reflect on your insights:
-- What would be available in my life if I were to fully realize this
-  insight?
-- How can seize the opportunity to live into this new future?
-
-The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]]
-- a treasure of Deep Rationality
-- Alan Watts has made much of South and East Asian Deep Rationality
-  accessible to everyone
-
-*Nonviolent (Compassionate) Communication*  aka NVC Materials
-- /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
-- /Nonviolent Communication Companion Workbook/ by Lucy Leu
-  - Guides individuals and informal groups in studying Nonviolent
-    Communication
-- Lots of other books, recordings and videos
-
-*** Workshops
-
-The [[https://www1.hai.org][Human Awareness Institute]] Workshops.
-
-[[https://www.landmarkworldwide.com][Landmark Worldwide]]'s workshops, especially
-- Their original /Curriculum for Living/
-      - The Landmark Forum
-      - The Landmark Advanced Course
-      - The Self-Expression and Leadership Program
-            - do not miss this last part of the Curriculum!
-- their other workshops and curricula are also valuable
-  - e.g. their /Communication/, /Wisdom/ and /Leadership/ tracks.
-- Note: Landmark is often criticized for their "sales" techniques.
-  Whether this bothers you or not, they are truly a treasure.
-
-NVC Workshops and Study Groups
-- In addition to reading books about NVC, especially
-  - /Nonviolent Communication: A Language of Life/ by NVC's founder
-  - and its companion book
-it can be useful to go deeper through
-- Workshops taught by experienced NVC Facilitators (Caveat Emptor)
-- Informal reading groups.
-
-NVC Study Groups are quite nice:
-- You meet with a group of friends once a week or every-other week
-  - in one another's homes or a pleasant [[https://en.wiktionary.org/wiki/third_place#English][Third Place]]
-- For each meeting you
-  - focus on one chapter in the (or each) book
-    - either just Marshall Rosenberg's /A Language of Life/
-    - or both that and Lucy Liu's /Companion Workbook/
-      - they have corresponding chapters
-  - engage with the current chapter's material in your daily life
-    between meetings
-  - share with your friends about what you're discovering
-
-*** Relevant Philosophical Traditions
-
-Deep Rationality was very important to Early Philosophers. Some more recent
-Philosophers have continued to explore Deep Rationality.
-
-- [[https://plato.stanford.edu/entries/socrates/][Socrates]]
-- [[https://en.wikipedia.org/wiki/Stoicism][Stoicism]]
-      - See [[https://www.gutenberg.org/ebooks/2680][Meditations]] by the Emperor of Rome, [[https://en.wikipedia.org/wiki/Marcus_Aurelius][Marcus Aurelius]]
-- [[https://en.wikipedia.org/wiki/Existentialism][Existentialism]]
-- [[https://en.wikipedia.org/wiki/Ontology][Ontology]]
-
-Warning: Approaching these philosophical subjects only intellectually
-will only cultivate a narrow intellectual mode of being which, despite
-its value for purely intellectual inquiry, fundamentally alienates us
-from being present to the quality of our experience of being - which
-is highly ironic! One must carefully balance these intellectual
-inquiries with experiential inquiries and notice where and how they
-can assist with the quality of such.
-
-*** Spiritual Communities and Traditions
-
-Many spiritual communities have developed profound and effective tools
-for accessing and practicing Deep Rationality. Alas, many of these
-traditions have collapsed some of their Deep Rationality distinctions
-with belief systems and/or authoritarian practices from the
-surrounding cultures over time. Collapsed distinctions can be
-confusing, especially for those who have not practiced Deep
-Rationality outside of such traditions.
-
-Those of us who have a strong practice of Deep Rationality free of
-spiritual traditions may discover that such traditions offer great
-treasure. Of especial note are
-- Many forms of Buddhism, especially Zen Buddhism
-- Taoism
-- Sufism, distinct from other forms of Islam
-
-A good test for whether a system of Deep Rationality is free of
-excessive attachments is to see if it is consistent with regular
-Rationality, Scientific Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European
-Enlightenment]], the sources of so much of the freedom and awesomeness
-of the modern world.
 
 ** [[https://en.wikipedia.org/wiki/Know_thyself][Know Thyself]]
 
