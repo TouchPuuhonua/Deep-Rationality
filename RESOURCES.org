@@ -3,8 +3,9 @@
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource List]] of /LOEL/ - the [[https://github.com/GregDavidson/loel#readme][League Of Extraordinary Learners]].
 
 Please assist us in increasing and improving this list of resources on
-Deep Rationality!  Unsorted new material can be added to the /Resource
-Inbox/ at the end of this document.
+Deep Rationality!
+- Unsorted new material can be added to the /Resource Inbox/ at the
+  end of this document.
 
 Know Thyself!
 
@@ -15,27 +16,30 @@ Know Thyself!
 Leverage Your Community!
 
 Find others who are interested in similar inquiry, growth and
-development.  Discuss your questions and insights with them.
+development.
+- Discuss your questions and insights with them!
 
 Reflect on your insights:
 - What would be available in my life if I were to fully realize this
   insight?
-- How can seize the opportunity to live into this new future?
+- How can you seize the opportunity to live into this new future?
 
 ** Books, Audio Recordings, Videos
 
 *** Books vs. Linear Media
 
-Books make it easy for you as the Reader to pause and reflect.  Deep
-Rationality books should usually be read slowly, a few pages or
-sections at a time.  It can be useful to write down questions,
-insights, etc.
+Books make it easy for you as the Reader to pause and reflect.
+- Deep Rationality books should usually be read slowly
+  - A few pages or sections at a time.
+  - Stopping to write down questions, insights, etc.
 
-Audio Recordings and Videos are /linear media/.  They have a fixed
-presentation rate which you have to adapt to.  If you're not careful,
-they'll train you to be passive, to not think for yourself.  When your
-own thoughts get cooking, you miss the next part of the linear
-presentation!
+Audio Recordings and Videos are /linear media/
+- You must adapt to their fixed presentation rate.
+If you're not careful
+- they'll train you to be passive
+- to not think for yourself!
+When your own thinking is stimulated
+- you miss the next part of the linear presentation!
 
 For maximum value, take control of /linear media/:
 - Some audiobook players let you control the playback speed.
@@ -69,32 +73,31 @@ The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordi
 
 Why is it called /Non-Violent Communication/?
 
-The term Non-Violent Communication comes from Marshall Rosenberg's
-work with the Gandhi Society in India which uses the traditional
-Sanskrit term Ahimsa which translates as Non-Violence.
+Marshall Rosenberg worked with the Gandhi Society in India
+- they use the Sanskrit term Ahimsa
+- which translates as Non-Violence
 
-Marshall Rosenberg also called it
+Marshall Rosenberg also called NVC
 - Compassionate Communication
-- A Language of LIfe
-- or just NVC
+- A Language of Life
 
 Perhaps a better term in English would be
-- Deep Empathy :: A Practice of Listening for Human Needs
+- Deep Empathy :: Listening for Human Needs
 
 The two fundamental resources:
 
-- /Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
-  - Clear, concise and utterly brilliant and deep!
-  - Best read slowly and more than once!
-  - Let's call this NVC:ALOL
+/Nonviolent Communication: A Language of Life/ by Marshall Rosenberg
+- Clear, concise and utterly brilliant and deep!
+- Best read slowly and more than once!
+- Let's call this NVC:ALOL
 
-- /Nonviolent Communication Companion Workbook/ by Lucy Leu
-  - Guides individuals and informal groups in studying NVC:ALOL.
-  - Has chapters corresponding to the chapters inNVC:ALOL.
-  - You can read these chapters to deepen your study.
+/Nonviolent Communication Companion Workbook/ by Lucy Leu
+- Guides individuals and informal groups in studying NVC:ALOL.
+- Has chapters corresponding to the chapters inNVC:ALOL.
+- You can read these chapters to deepen your study.
 
 If you want more, or if reading isn't your thing:
-- You'll find lots of other books, recordings and videos on NVC!
+- There are lots of other NVC books, recordings and videos!
 
 Also look for NVC under /Workshops/ below.
 
