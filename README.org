@@ -2,11 +2,12 @@
 
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
-We recommend reading this document slowly, a few sections at a time.
-Pause, reflect, browse resources, come back for more.
-
-Explore some of these
-- [[file:RESOURCES.org][Resources on Deep Rationality]]
+We recommend reading this document slowly
+- A few sections at a time
+- Pause, reflect, take notes, share with others
+- Explore some of these
+  - [[file:RESOURCES.org][Resources on Deep Rationality]]
+- Then come back for more!
 
 ** What Deep Rationality Offers
 
@@ -16,22 +17,25 @@ Deep Rationality offers
 - Possibilities :: for inventing inspiring futures to live towards.
 
 ** What Deep Rationality Doesn't Offer
-- Training in Valid Reasoning
+
+Training in Valid Reasoning
 - for this see the [[https://github.com/GregDavidson/DATDA#readme][LOEL Curriculum on Rationality]]
 
-Rationality and Deep Rationality work well together, despite being
-logically distinct.
+/BUT:/
 
-At the logical level, irrationality can lead to us making mistakes
-about our understanding of the world and our strategies for meeting
-our goals.
+Rationality and Deep Rationality very work well together
+- despite being logically distinct!
 
-At the deeper level, irrationality can lead us to fundamentally
-misunderstand ourselves and our values.  Beliefs are even more of an
-issue at this deeper level, as they become connected with our identity
-and we hide them from ourselves.  Contradictions to our beliefs tend
-to make us hold to them more tightly, carefully not looking at them
-critically.
+- At the Logical Level :: Irrationality can lead to us making mistakes
+  about our understanding of the world and our strategies for meeting
+  our goals.
+
+- At the Deeper Level :: Irrationality can lead us to fundamentally
+  misunderstand ourselves and our values.
+  - Beliefs are even more of an issue at this deeper level
+  - they become connected with our identity and we hide them from ourselves.
+  - Contradictions to our beliefs strengthen their grip!
+    - And cause us to avoid looking at them critically!
 
 ** Fundamental Deep Rationality Distinctions
 
@@ -49,23 +53,24 @@ The primary experience of all Human Beings is /Subjective/, not /Objective/
       - [[https://en.wikipedia.org/wiki/Hard_problem_of_consciousness][that's hard to explain!]]
 
 We learn to interpret much of what we experience as being about
-- /Objects In The World/
-- We learn to parse Sensory Experience into /Objects/!
-We identify /Objects:/
-- the presence of those objects
+- /Objects In The World/ - /Things!/
+- We learn to parse Sensory Experience into Objects!
+We identify Objects:
+- where they are, separate from other Objects
 - what state they are in
   - the properties that shouldn't change
   - the properties which change, and how
 
 It's easy to make the mistake of
-- interpreting Ourselves as just another /Object In The World/
-- with stable characteristics, e.g. our body and mind
-- containing elements, including our thoughts and feelings
+- Interpreting Ourselves as just another /Object In The World/.
+- Our Body and our Mind as (separate!) Objects!
+- Containing more Objects "inside"
+  - including our Thoughts and Feelings!
 
 Why is this a mistake?
 - We are what is doing the interpretation
 - The interpretations we create are models
-- /A map is not the territory it described!/
+- /A map is not the territory it describes!/
 
 Than what are we?
 - We are /Subjects/ rather than /Objects/
@@ -88,46 +93,46 @@ More details on this in the section on /Memes/ below.
 What's wrong with identifying ourselves as an Object?
 
 An Object is defined by its
-- stable characteristics
-- known properties whose values change in limited ways
+- stable characteristics,
+- known properties whose values change in limited ways.
 
-Objects don't have any inherent meaning, purpose or dignity
+Objects don't have any inherent meaning, purpose or dignity.
 
 Subjects have
-- a Quality of Being
-- what it's like to Be Themselves
-- an Authentic Self
+- A Quality of Being
+  - What it's like to Be Themselves.
+  - An Authentic Self!
 
 Subjects are always and naturally
-- Creating Interpretations
-- Creating and Discovering Meaning
+- Creating Interpretations!
+- Creating and Discovering Meaning!
 
 When we are present to our authentic self, we have the power to
-- notice our values
-- create goals which are congruent with our values
-- authentically discard or change goals
-- discover/create our life purpose
+- Notice our values
+- Create goals which are congruent with our values
+- Authentically discard or change goals
+- Discover/Create our life purpose!
 
 ** So What? - At Greater Length
 
 When we model a Human Being as an Object
-- they become a stereotype
-- we interpret them as being limited
-- we create an illusion of predictability
-- we lose the richness of their full being
+- They become a stereotype
+- We interpret them as being limited
+- We create an illusion of predictability
+- We lose the richness of their full being
 
 When we model ourselves as an Object
-- we become a stereotype to ourselves
-- we interpret ourselves as being limited
-- we expect our future to be consistent with our past
-- (we may experience being trapped!)
-- we lose the richness of our full being
-- we lose the ability to /Create New Futures!/
+- We become a stereotype to ourselves
+- We interpret ourselves as being limited
+- We expect our future to be consistent with our past
+- (We may experience being trapped!)
+- We lose the richness of our full being
+- We lose the ability to /Create New Futures!/
 
 Experiencing our immediate quality of Being
-- is fresh, energizing
-- cuts through our objectifications
-- reveals where we've become trapped by attachments
+- Is fresh, energizing
+- Cuts through our objectifications
+- Reveals where we've become trapped by attachments
 
 Buddhism identifies the source of suffering as Attachment
 - to our interpretations
@@ -139,14 +144,14 @@ Buddhism identifies the source of suffering as Attachment
 Attachments turn us into Objects.
 
 Key practices of Deep Rationality are
-- noticing constraints in the Quality of our Being
-- identifying attachments
-- letting go of those attachments
-- engaging with our new freedom of being
-- rediscovering our /Authentic Self/
+- Noticing constraints in the Quality of our Being
+- Identifying attachments
+- Letting go of those attachments
+- Engaging with our new freedom of being
+- Rediscovering our /Authentic Self/
 
 Shared Belief Systems can be difficult to distinguish
-- they seem to just be "how reality is"
+- They seem to just be "how reality is"
 - (This is how superstitions operate!)
 - Diversity in our community can be very helpful!
 - Exposing ourselves to the new can be very helpful!
@@ -163,57 +168,81 @@ Much of our time we have our attention on the content of our life
 - We may feel like somethings off, something important is missing
 
 Deep Rationality tools are designed to allow us to periodically
-- free our attention somewhat from
+- Free our attention somewhat from
       - what we're doing
       - our thoughts
       - our feeling
-- create some distance between
+- Create some distance between
       - the processes going on in our body and our mind
       - allowing us to notice what it's like
             - to be present to those processes
             - to be present to ourselves
-- notice any attachments coloring the quality of who we're being
+- Notice any attachments coloring the quality of who we're being
 
 Deep Rationality is an access to
-- clarity
-- authenticity
-- integrity of being
+- Clarity
+- Authenticity
+- Integrity of Being
 
 ** Culture and Memes Own You!
 
-Cultures largely consist of vast overlapping and nested collections of
-memes.  As a social animal with language, you and they have
-co-evolved, i.e. human beings have slowly evolved to enhance their
-receptiveness to being colonized by networks of memes and those
-networks of memes undergo rapid evolution to enhance their their
-ability to colonize human beings!
+Cultures largely consist of
+- vast overlapping and nested collections of memes!
 
-[[https://en.wikipedia.org/wiki/Meme][Memes]] are the smallest units of meaning which can be transmitted from
-one person to another, typically by human language, but also by music,
-art, behavior, etc.  Most memes make little impression on the
-recipient and are not retained very long.  Some other memes change the
-direction of the recipient's life profoundly.
+We are social animals with language
+- We have co-evolved with memes!
+We human beings have slowly evolved
+- to enhance our receptiveness to being colonized by networks of memes!
+The Networks of Memes rapidly evolve
+- to enhance their ability to colonize us!
 
-Memes replicate by being transmitted.  Errors in transmission cause
-variations.  Memes compete with one another for the limited memory and
-attentional resources of the recipient's brain - your brain.  Memes
-which do a better job of holding your attention or installing
-themselves in your memory are "fitter" than competing memes - does
-this start to sound familiar?
+[[https://en.wikipedia.org/wiki/Meme][Memes]] are the smallest units of meaning
+- which can be transmitted from one person to another
+- typically by human language, but also by
+  -  music, art, behavior, etc.
+Most memes make little impression on us
+- most are not retained very long, if at all!
+Some memes profoundly change the entire direction of our life!
 
-Memes are replicators which mutate and are subject to [[https://en.wikipedia.org/wiki/Natural_selection][Natural
-Selection]] much like genes are.  Indeed, it was the evolutionary
-biologist Richard Dawkins who noticed this resemblance and introduced
-them in a chapter of his enlightening little book [[https://en.wikipedia.org/wiki/The_Selfish_Gene][The Selfish Gene]].
-Memetic evolution works on a /much/ faster time scale than genetic
-evolution, although with human beings the two go together.  The human
-mind emerges in part from the partnership of the human brain and its
-vast network of memes.  (Another key element is Consciousness - which
-no one understands very well!)
+Memes replicate by being transmitted.
+- Errors in transmission cause variations.
+- Memes live in our limited memory resources
+  - Which are controlled by our attention!
+- Memes compete for
+  - Holding your attention
+  - Staying in your Working Memory
+  - Getting stored in your Long-Term Memory
+    - With triggers for reactivation
+The resources are limited
+- Fitter memes displace less fit memes!
+- Does this start to sound familiar?
 
-/an aside:/
+Memes
+- replicators
+- with mutate
+and are therefore
+- subject to [[https://en.wikipedia.org/wiki/Natural_selection][Natural Selection]]
+  - much like genes are.
+This was first explained  by the evolutionary biologist
+-  [[https://en.wikipedia.org/wiki/Richard_Dawkins][Richard Dawkins]] and
+in a chapter of his enlightening little book
+- [[https://en.wikipedia.org/wiki/The_Selfish_Gene][The Selfish Gene]].
 
-Many otherwise rational people who hold [[https://en.wikipedia.org/wiki/Progressivism][Progressive]] /Beliefs/ - as
+Genetic Evolution and Memetic Evolution have different time scales
+- Significant Genetic evolution takes millions of years
+- Significant Memetic evolution can occur in weeks or months!
+Yet the two are tightly coupled!
+- The human mind emerges in part from a partnership
+  - The human brain containing a vast network of memes
+  - The mind containing the memes currently reactivated.
+  - Yes, there's more, e.g. Consciousness
+       - which no one understands very well!
+       - but it has a lot to do with attention
+       - which gives activated memes temporary persistence
+
+/An aside:/
+
+Many otherwise rational people who hold /[[https://en.wikipedia.org/wiki/Progressivism][Progressive]] Beliefs/ - as
 distinct from /Progressive Values/ - consider [[https://en.wikipedia.org/wiki/Richard_Dawkins][Richard Dawkins]] and
 especially his book /The Selfish Gene/ to be [[https://en.wikipedia.org/wiki/Anathema][Anathema]].  This is a
 great example of how belief systems can undermine our integrity and
@@ -224,20 +253,33 @@ and social identities become enemies of their own needs and values!
 
 /Back to memes:/
 
-Memes do not act on their own, any more than words in a sentence are
-acting on their own.  Memes form coalitions in order to more
-efficiently acquire your brain's (and mind's) resources.  Memes within
-such coalitions attach themselves to your [[file:nvc-feelings-and-needs-inventory.pdf][Fundamental Human Feelings
-And Needs]].
+Memes do not act on their own!
+- Any more than words in a sentence are acting on their own.
+Memes form coalitions - memetic support networks
+- in order to more efficiently acquire your brain's (and mind's) resources
+- again like genes which do something analogous
+How do memes convince your brain/mind to
+- Store them in long-term memory
+- Reactivate them on appropriate triggers
+- Persist them for awhile in your Active Memory?
+Memes attach themselves to your
+- [[file:nvc-feelings-and-needs-inventory.pdf][Fundamental Human Feelings And Needs]]
+- See the section on NVC in the [[file:RESOURCES.org][Resources]]!
 
 [[https://en.wikipedia.org/wiki/Mindfulness][Mindfulness Meditation]] is very useful to observing the memes and meme
 coalitions which have colonized us and how they effect us.
 
 ** [[https://en.wikipedia.org/wiki/Know_thyself][Know Thyself]]
 
-Your body (including your mind) is your vehicle in this life.  It has
-a particular design with needs, drives, emotions, sexual and gender
-orientations, cognitive limitations, biases and more.
+Your body (including your mind) is your vehicle in this life.
+- It has a particular design with
+  - needs, drives, emotions
+  - sexual and gender orientations
+  - cognitive quirks and limitations
+  - intelligence, biases and much more!
 
 What relationship with your body and your mind will support your
-power, freedom and authenticity?
+- Power, Freedom and Authenticity?
+
+What Practices and Resources will allow you to actualize these
+Possibilities?

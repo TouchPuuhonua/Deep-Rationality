@@ -1,6 +1,6 @@
 * Resources for Deep Rationality
 
-A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource List]] of /LOEL/, the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/loel-lists.org][Resource List]] of /LOEL/ - the [[https://github.com/GregDavidson/loel#readme][League Of Extraordinary Learners]].
 
 Please assist us in increasing and improving this list of resources on
 Deep Rationality!  Unsorted new material can be added to the /Resource
