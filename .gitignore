@@ -1,9 +1,10 @@
 .bzr
 *~
-#*#
+.#*
+\#*#
 *.htm
 *.tex
-*.pdf
+# *.pdf
 TAGS
 Limbo
 [Tt]mp
