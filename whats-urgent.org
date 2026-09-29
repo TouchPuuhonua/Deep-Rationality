@@ -1,27 +1,89 @@
 * What is Urgent
 
+This document is new
+- please be patient during its development
+- and would you like to help?
+
 It is all to easy to give our lives over to
 - /What's Urgent/
 at the expense of
 - /What's Important/ -- i.e. what we truly care about.
 
-** Why might something be considered urgent?
+** Confusing Urgent vs. Important
 
-: Replace this with a reference to Know Thyself
+Two common ways of losing our way
+1. Exhausing our resources on what seems urgent
+    - but isn't what we really care about
+2. Not being in action because of uncertainty, fear, stress, etc.
+    - Hint: Self-Shaming is a key part of the meme complex which keeps
+      us out of action!
 
-*** Maslow's Hierarchy
+** Being in Action Rationally
 
-*** Attachment-Based Urgency
+1. Find out what's important to you!
+    - This is [[https://github.com/TouchPuuhonua/Deep-Rationality#readme][Deep Rationality]]
+    - If this seems too woo-woo, maybe revisit it later?
+2. Find out what's really going on in that area
+    - Long-term dysfunction is usually being maintained by some active
+      process!
+    - Be an open-minded skeptic!
 
-*** Possibility-Based Urgency
+** Urgent for Whom?  - Circles of Concern
 
-** What might be worth considering urgent?
+Who or what do we care about?
 
-Or: What might be worth devoting a significant amount of our life
-focus towards?
+We can organize this into Circles of Concern.  From smallest to largest:
+- Who or what I care about
+      - myself right now
+            - my immediate desires
+      - my future
+            - my aspirations for the quality of my life
+      - people I know who I care about
+            - family, friends, etc.
+      - people I approve of
+            - people who share my values
+            - people who exhibit virtual as I see such
+      - all human beings, or maybe
+      - all sentient and sapient beings
+            - which have an inner life
+            - including minds, loves and aspirations for the future
+      - all sentient beings
+            - which can experience lives of varying quality
+            - including the ability to suffer or experience well-being
+      - life in general or maybe
+      - healthy ecosystems
 
-*** What Gives Joy?
+*** What We Need vs. What We Want
 
-*** What Gives Quality of Life?
+It's easy to confuse
+- What we want as a fundamental value or need
+      - e.g. freedom, expressing love, making a difference to others, etc.
+- What we want as a strategy for meeting our values or needs
+      - a lucrative job, an investment portfolio, etc.
+      - membership in elite clubs and organizations
+      - people who do what we tell them to do
+      - etc.
 
-*** What Fulfils Great
+** For further thought
+
+*** What might be worth considering urgent?
+
+What might might you consider worth devoting a significant amount of
+your life focus towards?
+- What gives you Joy?
+- What contributes to the Quality of your life?
+- What do you find a sense of Accomplishment and Fulfillment?
+- Do you have a sense of Vision or Direction or Purpose?
+
+*** Links
+
+- [[https://github.com/GregDavidson/loel#readme][The League of Extraordinary Learners]]
+- [[file:../README.org][Deep Rationality]]
+- [[https://github.com/GregDavidson/DATDA#readme][Rationality]]
+
+*** Topics to Expand or Reference
+
+- Know Thyself
+- Maslow's Hierarchy
+- Attachment-Based Urgency
+- Possibility-Based Urgency

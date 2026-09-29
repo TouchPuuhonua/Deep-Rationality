@@ -47,3 +47,5 @@ build artificially intelligent systems in the form of electronic computers.
 
 *** Logic and Rationality
 
+Logic and Rationality stand on Deep Rationality.  See the curriculum
+- [[https://github.com/GregDavidson/Rationality#readme][LOEL Rationality Curriculum]]
