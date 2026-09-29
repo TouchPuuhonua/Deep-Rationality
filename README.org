@@ -1,110 +1,292 @@
 * Deep Rationality
 
-A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of LOEL: the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
-NOTE: Development of this "Curriculum" has just started.
-- There are already some valuable resources here.
-- Would you like to
-    - contribute more resources?
-    - help shape it into a full curriculum?
+We recommend reading this document slowly
+- A few sections at a time
+- Pause, reflect, take notes, share with others
+- Explore some of the
+  - [[file:RESOURCES.org][Resources on Deep Rationality]]
+- Then come back for more!
 
-** Distinctions of Traditional Rationality
+** What Deep Rationality Offers
 
-The distinctions of /Rationality/ are extremely valuable
-- Using valid reasoning about important issues
-- Detecting Accidental and Malicious Fallacies
-- and so forth
+- Freedom :: from attachments based on past upsets.
 
-Rationality provides tools for determining if a reasoning process is valid or
-invalid and whether, given a degree of confidence in the truth of the premises,
-what degree of confidence would be justified in the conclusions.
+- Clarity :: to discover what really matters to us.
 
-Study of Rationality and Mathematical Logic which it is based on will reveal
-that there's nothing in either which can help us find or form
-- our goals
-- our values
-- our life purpose
+- Possibilities :: for inventing inspiring futures to live towards.
 
-The studying of Rationality is directed by our intellect with an awareness of
-our emotions.  It is about the /integrity of our thinking/.
+** What Deep Rationality Doesn't Offer
 
-** Distinctions of Deep Rationality
+Training in Valid Reasoning
+- for this see the [[https://github.com/GregDavidson/DATDA#readme][LOEL Curriculum on Rationality]]
 
-/Deep Rationality/ is directed by our /Being/. Deep Rationality is a process of
-noticing the ways in which /Who We Are Being/ has been captured by /Belief
-Systems/ and other /Attachments/. Deep Rationality is a practice of noticing
-that those /Attachments/ are mental content which has nothing to do with our
-/Authentic Self/.
+** Why Not Both?
 
-Said in a simpler way, Deep Rationality is a practice of naturally shedding
-attachments by observing those attachments while standing in our /Authentic
-Self/.
+Rationality and Deep Rationality work very well together!
 
-Deep Rationality is grounded in Being. Being exists only in the moment. Being is
-at the root of our life. When our attention is on the content of our life, we
-can easily lose awareness of what it's like to be who we're being in the present
-moment, we can easily lose awareness of what is determining the quality of our
-being.
+- At the Logical Level :: Irrationality can lead to us making mistakes
+  about our understanding of the world and our strategies for meeting
+  our goals.
 
-Deep Rationality tools are designed to allow us to
-- free our attention somewhat from
+- At the Deeper Level :: Irrationality can lead us to fundamentally
+  misunderstand ourselves and our values.
+  - Beliefs are even more of an issue at this deeper level
+  - they become connected with our identity and we hide them from ourselves.
+  - Contradictions to our beliefs strengthen their grip!
+    - And cause us to avoid looking at them critically!
+
+** Fundamental Deep Rationality Distinctions
+
+/Deep Rationality/ consists of distinctions that are
+- Of primary importance to all human beings
+- Poorly addressed by mainstream culture and education
+- Presented in confused forms by most religious and spiritual teachings
+- Addressed in sophisticated forms by specialized philosophers
+      - who use opaque academic language
+- Thus: Not very accessible to most human beings!
+
+Our primary experience is /Subjective/, not /Objective/
+- Our existence in the world has an /Immediate Quality/
+      - /What It's Like To Be Us/ is /Immediately Experienced!/
+      - [[Https://en.wikipedia.org/wiki/Hard_problem_of_consciousness][That's hard to explain!]]
+
+We learn to interpret much of what we experience as being about
+- /Objects In The World/ - /Things!/
+- We learn to Parse Sensory Experience into Objects!
+We identify Objects:
+- delimited, separate from other Objects
+- in a schematic state of
+  - rarely-changing characteristics
+  - properties changeable in characteristic ways
+
+It's easy to make the mistake of
+- Interpreting Ourselves as just another /Object In The World/.
+- Our Body and our Mind as (separate) Objects!
+- Containing more Objects "inside"
+  - including our Thoughts and Feelings!
+
+Why is this a mistake?
+- We are creating these Interpretations!
+- These Interpretations we create are only /Models/!
+- Models are never true, only useful in specific contexts!
+
+Than what are we?
+- We are /Subjects/ rather than /Objects/
+- We are the /Source/ of our /Interpretations/
+- We are the /Context/ Witnessing and Interpreting the /Content/
+- We are Human /Beings/ Experiencing
+      - the Quality of /Being in the World/ within Evolving Time
+
+Thoughts and Feelings have /No Natural Persistence!/
+- No more than images in the eye or sounds in the ear!
+- Appearances of persistence are actually reactivations
+  - Which require active work from the brain/mind!
+- If you /Stop Giving Attention/ to any Thought or Feeling
+  - It will almost immediately disappear!
+
+More details on this in the section on /Memes/ below.
+
+** So What? - Briefly
+
+What's wrong with identifying ourselves as an Object?
+
+An Object is defined by its
+- stable characteristics,
+- known properties whose values change in limited ways.
+
+Objects don't have any inherent meaning, purpose or dignity.
+
+Subjects have
+- A Quality of Being
+  - What it's like to Be Themselves.
+  - An Authentic Self!
+
+Subjects are always and naturally
+- Creating Interpretations!
+- Creating and Discovering Meaning!
+
+When we are present to our authentic self, we have the power to
+- Notice our values
+- Create goals which are congruent with our values
+- Authentically discard or change goals
+- Discover/Create our life purpose!
+
+** So What? - At Greater Length
+
+When we model a Human Being as an Object
+- They become a stereotype
+- We interpret them as being limited
+- We create an illusion of predictability
+- We lose the richness of their full being
+
+When we model ourselves as an Object
+- We become a stereotype to ourselves
+- We interpret ourselves as being limited
+- We expect our future to be consistent with our past
+- (We may experience being trapped!)
+- We lose the richness of our full being
+- We lose the ability to /Create New Futures!/
+
+Experiencing our immediate quality of Being
+- Is fresh, energizing
+- Cuts through our objectifications
+- Reveals where we've become trapped by attachments
+
+Buddhism identifies the source of suffering as Attachment
+- to our interpretations
+- to our points of view
+- to our thoughts and feelings
+- to Belief Systems
+- to any Content
+
+Attachments turn us into Objects.
+
+Key practices of Deep Rationality are
+- Noticing constraints in the Quality of our Being
+- Identifying attachments
+- Letting go of those attachments
+- Engaging with our new freedom of being
+- Rediscovering our /Authentic Self/
+
+Shared Belief Systems can be difficult to distinguish
+- They seem to just be "how reality is"
+- (This is how superstitions operate!)
+- Diversity in our community can be very helpful!
+- Exposing ourselves to the new can be very helpful!
+
+Deep Rationality is grounded in Being.
+- Being exists only in the moment.
+- Being is at the root of our life.
+
+Much of our time we have our attention on the content of our life
+- We easily lose awareness of /How We're Being/.
+- Of the quality of being who we are in this moment.
+- We forget who we are
+- We unintentionally undermine the quality of our life
+- We may feel like somethings off, something important is missing
+
+Deep Rationality tools are designed to allow us to periodically
+- Free our attention somewhat from
       - what we're doing
       - our thoughts
       - our feeling
-- have some distance between
+- Create some distance between
       - the processes going on in our body and our mind
       - allowing us to notice what it's like
             - to be present to those processes
             - to be present to ourselves
-- can notice any attachments coloring the quality of who we're being
+- Notice any attachments coloring the quality of who we're being
 
-Deep Rationality is an access to clarity, authenticity and integrity of being.
+Deep Rationality is an access to
+- Clarity
+- Authenticity
+- Integrity of Being
 
-When we are present to our authentic self, we have the power to
-- notice our values
-- create goals which are congruent with our values
-- authentically change and discard goals which do not serve us
-- discover/create our life purpose
+** Culture and Memes Own You!
 
-** Deep Rationality Resources
+Cultures largely consist of
+- vast overlapping and nested collections of memes!
 
-*** Books and Audio Recordings
+We are social animals with language
+- We have co-evolved with memes!
+We human beings have slowly evolved
+- to enhance our receptiveness to being colonized by networks of memes!
+The Networks of Memes rapidly evolve
+- to enhance their ability to colonize us!
 
-The [[https://en.wikipedia.org/wiki/Works_by_Alan_Watts][Books and Audio Recordings of Alan Watts]] are a treasure of Deep Rationality.
+[[https://en.wikipedia.org/wiki/Meme][Memes]] are the smallest units of meaning
+- which can be transmitted from one person to another
+- typically by human language, but also by
+  -  music, art, behavior, etc.
+Most memes make little impression on us
+- most are not retained very long, if at all!
+Some memes profoundly change the entire direction of our life!
 
-*** Videos
+Memes replicate by being transmitted.
+- Errors in transmission cause variations.
+- Memes live in our limited memory resources
+  - Which are controlled by our attention!
+- Memes compete for
+  - Holding your attention
+  - Staying in your Working Memory
+  - Getting stored in your Long-Term Memory
+    - With triggers for reactivation
+The resources are limited
+- Fitter memes displace less fit memes!
+- Does this start to sound familiar?
 
-Some of the videos on the [[https://www.youtube.com/channel/UCMc7f-KqL59uuAUbB7BtAMg][Be The Change YouTube Channel]].
+Memes
+- replicators
+- with mutate
+and are therefore
+- subject to [[https://en.wikipedia.org/wiki/Natural_selection][Natural Selection]]
+  - much like genes are.
+This was first explained  by the evolutionary biologist
+-  [[https://en.wikipedia.org/wiki/Richard_Dawkins][Richard Dawkins]] and
+in a chapter of his enlightening little book
+- [[https://en.wikipedia.org/wiki/The_Selfish_Gene][The Selfish Gene]].
 
-*** Workshops
+Genetic Evolution and Memetic Evolution have different time scales
+- Significant Genetic evolution takes millions of years
+- Significant Memetic evolution can occur in weeks or months!
+Yet the two are tightly coupled!
+- The human mind emerges in part from a partnership
+  - The human brain containing a vast network of memes
+  - The mind containing the memes currently reactivated.
+  - Yes, there's more, e.g. Consciousness
+       - which no one understands very well!
+       - but it has a lot to do with attention
+       - which gives activated memes temporary persistence
 
-The [[https://www1.hai.org][Human Awareness Institute]] Workshops.
+/An aside:/
 
-[[https://www.landmarkworldwide.com][Landmark Worldwide]]'s workshops, especially
-- Their full /Curriculum for Living/
-      - The Landmark Forum
-      - The Landmark Advanced Course
-      - The Self-Expression and Leadership Program
-            - do not miss this last part of the Curriculum!
-- their /Communication/, /Wisdom/ and /Leadership/ curricula
+Many otherwise rational people who hold /[[https://en.wikipedia.org/wiki/Progressivism][Progressive]] Beliefs/ - as
+distinct from /Progressive Values/ - consider [[https://en.wikipedia.org/wiki/Richard_Dawkins][Richard Dawkins]] and
+especially his book /The Selfish Gene/ to be [[https://en.wikipedia.org/wiki/Anathema][Anathema]]!  This is a
+great example of how belief systems can undermine our integrity and
+values.  Many rational thinkers with good values and important ideas
+have been subject to [[https://en.wikipedia.org/wiki/Cancel_culture][Cancel Culture]] by people who claim to be
+progressive.  People who entangle their beliefs with their personal
+and social identities become enemies of their own needs and values!
 
-*** Spiritual Communities
+/Back to memes:/
 
-Many spiritual communities have developed profound and effective tools for
-accessing and practicing Deep Rationality. Alas, many of these traditions have
-also collapsed some of their Deep Rationality distinctions with belief systems
-and/or authoritarian practices over time. Collapsed distinctions can be
-confusing, especially for those who have not practiced Deep Rationality outside
-of such traditions.
+Memes do not act on their own!
+- Any more than words in a sentence are acting on their own.
+Memes form coalitions - memetic support networks
+- in order to more efficiently acquire your brain's (and mind's) resources
+- again like genes which do something analogous
+How do memes convince your brain/mind to
+- Store them in long-term memory
+- Reactivate them on appropriate triggers
+- Persist them for awhile in your Active Memory?
+Memes attach themselves to your
+- [[file:nvc-feelings-and-needs-inventory.pdf][Fundamental Human Feelings And Needs]]
+- See the section on NVC in the [[file:RESOURCES.org][Resources]]!
 
-Those of us who have a strong practice of Deep Rationality free of spiritual
-traditions may discover that such traditions offer great treasure. Of especial
-note are
-- Many forms of Buddhism, especially Zen Buddhism
-- Taoism
-- Sufism, distinct from other forms of Islam
+[[https://en.wikipedia.org/wiki/Mindfulness][Mindfulness Meditation]] is very useful to observing the memes and meme
+coalitions which have colonized us and how they effect us.
 
-A good test for whether a system of Deep Rationality is free of excessive
-attachments is to see if it is consistent with regular Rationality, Scientific
-Inquiry and the values of [[https://en.wikipedia.org/wiki/Age_of_Enlightenment][The European Enlightenment]], the sources of so much of
-the freedom and awesomeness of the modern world.
+** [[https://en.wikipedia.org/wiki/Know_thyself][Know Thyself]]
+
+Your body (including your mind) is your vehicle in this life.
+- It has a particular design with
+  - needs, drives, emotions
+  - sexual and gender orientations
+  - cognitive quirks and limitations
+  - intelligence, biases and much more!
+
+What relationship with your body and your mind will support your
+- Power, Freedom and Authenticity?
+
+What Practices and Resources will allow you to actualize these
+Possibilities?
+
+** We invite your participation with Deep Rationality!
+
+How might you improve this resource collection?
+
+Please see these guidelines on
+- [[https://github.com/GregDavidson/loel/blob/main/Devel/#readme][Participating as a LOEL Developer/Improver]]
